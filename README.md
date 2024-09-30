@@ -22,3 +22,6 @@ I discontinued this app because I realized that there were many different variab
 #### Frontend
 - JavaScript
 - React
+
+## Questions?
+Reach out at parkjae433@gmail.com
