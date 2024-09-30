@@ -16,12 +16,15 @@ I discontinued this app because I realized that there were many different variab
 - Langchain
 - OpenAI
 - Sklearn
+- Pydantic
 #### Backend
 - Python
 - FastAPI
+- MySQL
 #### Frontend
 - JavaScript
 - React
+- MaterialUI
 
 ## Questions?
 Reach out at parkjae433@gmail.com
