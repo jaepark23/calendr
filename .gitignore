@@ -1,0 +1,7 @@
+backburner/
+backend/data
+backend/api/encrypted_prompts/
+
+__pycache__/
+.env
+.DS_Store
