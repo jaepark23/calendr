@@ -1,5 +1,5 @@
 ## What is Calendr
-Calendr is a tool designed to extract important dates/deadlines from college PDFs.
+Calendr is a tool designed to extract important dates/deadlines from college PDFs so that you don't have to manually enter tedious assignment dates.
 
 ## How does it work
 Calendr uses the latest LLM technologies to extract dates from PDF extracted text. It has been tested on OpenAI's latest models but it can also be swapped with other state of the art models as well.
